@@ -1,0 +1,23 @@
+body {
+    /* I downloaded this background image from Canva, not sure if I'm allowed to use it, but the instructions said I have complete freedom :) */
+    background-image: url("../images/beigebg.jpg");
+    
+max-width: 60em;
+margin: 0 auto 0 auto;
+} 
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+    /* I learned how to use padding from W3Schools */
+h1 {color:darkblue;}
+h1 {
+background-color: rgb(255, 255, 255);
+}
+p {
+background-color: ghostwhite;
+position: relative;
+padding: 20px
+}
